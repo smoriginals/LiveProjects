@@ -4,17 +4,18 @@ function App() {
 
     return (
         <>
-            <div className='flex h-dvh w-dvw flex-col items-center justify-center gap-2 bg-gray-900 p-2 text-gray-200'>
+            <div className='flex h-screen w-dvw flex-col items-center justify-center gap-2 bg-gray-900 p-2 text-gray-200'>
 
-                <div className=' flex w-full justify-center rounded-md bg-gray-800 p-4'>
+                <div className='flex w-full flex-col items-center justify-center rounded-md bg-gray-800 p-4'>
                     <h1 className='text-4xl font-bold'>PROJECTS</h1>
+                    <p className='text-xs text-gray-500'>Click Github For more details about the Project</p>
                 </div>
 
                 <div className='flex h-full w-full flex-col justify-center gap-2 rounded-md md:flex-row'>
 
                     <div className='flex h-full w-full items-center justify-start rounded-md bg-gray-800 pl-16 md:justify-center md:p-2'>
 
-                        <ul className='ulHover list-disc space-y-1 font-bold md:text-2xl'>
+                        <ul className='ulHover list-disc space-y-1 text-sm font-bold md:text-2xl'>
 
 
                             <li className=' fadeanim hover:text-blue-600'><a href='https://smoriginals-river.onrender.com' target='_blank'>Instagram Mini App</a>
@@ -47,7 +48,7 @@ function App() {
 
 
                     <div className='flex h-full w-full items-center justify-start rounded-md bg-gray-800 pl-16 md:justify-center md:p-2'>
-                        <ul className='list-disc space-y-1 font-bold md:text-2xl'>
+                        <ul className='list-disc space-y-1 text-sm font-bold md:text-2xl'>
                             <li className='fadeanim hover:text-blue-600'>
                                 <a href='https://smoriginals.github.io/dropdown' target='_blank'>
                                     Regex Based Search
