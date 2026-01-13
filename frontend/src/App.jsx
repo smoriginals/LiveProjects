@@ -25,7 +25,7 @@ function App() {
                             <a href='https://github.com/smoriginals/Web-Cam' target='main' className='hover:text-gray-900'>Github</a>
 
 
-                            <li className='fadeanim hover:text-blue-600'><a href='https://anapp.vercel.app' target='_blank'>E-Commerce Garden UI</a></li>
+                            <li className='fadeanim hover:text-blue-600'><a href='https://smoriginals-garden.vercel.app' target='_blank'>E-Commerce Garden UI</a></li>
                             <a href='https://github.com/smoriginals/anapp' target='main' className='hover:text-gray-900'>Github</a>
 
 
