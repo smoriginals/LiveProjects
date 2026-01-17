@@ -56,13 +56,13 @@ function App() {
                             </li>
                             <a href='https://github.com/smoriginals/dropdown' target='main' className='hover:text-gray-900'>Github</a>
 
+                            <li className='fadeanim hover:text-blue-600'><a href='https://todo-app-nine-jade-85.vercel.app/' target='_blank'>ToDo List</a></li>
+                            <a href='https://github.com/smoriginals/todo' target='main' className='hover:text-gray-900'>Github</a>
 
                             <li className='fadeanim hover:text-blue-600'><a href='https://smoriginals.github.io/Noughts-Crosses' target='_blank'>Noggets & Crosses</a></li>
                             <a href='https://github.com/smoriginals/Noughts-Crosses' target='main' className='hover:text-gray-900'>Github</a>
 
 
-                            <li className='fadeanim hover:text-blue-600'><a href='https://smoriginals.github.io/GeoLocation-Compass' target='_blank'>GeoLocation Compass</a></li>
-                            <a href='https://github.com/smoriginals/GeoLocation-Compass' target='main' className='hover:text-gray-900'>Github</a>
 
 
                             <li className='fadeanim hover:text-blue-600'><a href='https://smoriginals.github.io/Currency-Converter' target='_blank'>Currency Converter</a></li>
